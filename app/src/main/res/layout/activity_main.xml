@@ -48,7 +48,8 @@
         android:padding="20dp"
         android:text="Already have an Account? Login"
         android:textAllCaps="false"
-        android:textSize="15sp" />
+        android:textSize="15sp"
+        />
 
     <Button
         android:id="@+id/main_join_now_btn"
