@@ -128,7 +128,9 @@
         android:text="I'm not an Admin"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="20sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:visibility="invisible"
+        />
 
 
 </RelativeLayout>
